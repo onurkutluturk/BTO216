@@ -10,7 +10,7 @@ namespace BTO216
         {
             Console.WriteLine("Merhaba Dünya!");
             Console.Read();
-            mdmdmd- onurkutluturk
+            mdmdmd
         }
     }
 }
