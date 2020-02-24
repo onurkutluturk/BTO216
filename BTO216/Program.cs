@@ -8,6 +8,8 @@ namespace BTO216
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Merhaba Dünya!");
+            Console.Read();
         }
     }
 }
